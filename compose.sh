@@ -1,0 +1,1 @@
+convert 2_livro2.pdf-*.jpg volume2.pdf

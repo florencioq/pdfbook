@@ -1,0 +1,1 @@
+convert -density 150x150 -quality 70 -compress jpeg volume2.pdf volume2a.pdf 
